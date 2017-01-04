@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate-react1",
+  "version": "1.0.0",
+  "description": "Boilerplate: React, Flux, Material-UI (React), Modernizr, Sass, Webpack, NodeJS, ExpressJS, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkdb05/boilerplate-react1.git"
+  },
+  "author": "David Dame-Boyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkdb05/boilerplate-react1/issues"
+  },
+  "homepage": "https://github.com/dkdb05/boilerplate-react1#readme"
+}
